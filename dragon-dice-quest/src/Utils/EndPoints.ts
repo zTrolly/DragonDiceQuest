@@ -1,0 +1,31 @@
+const EndPoints = {
+    API: {
+        BASE: 'https://www.dnd5eapi.co/api',
+        ABILITY_SCORES: '/ability-scores',
+        ALIGNMENTS: '/alignments',
+        BACKGROUNDS: '/backgrounds',
+        CLASSES: '/classes',
+        CONDITIONS: '/conditions',
+        DAMAGE_TYPES: '/damage-types',
+        EQUIPMENT: '/equipment',
+        EQUIPMENT_CATEGORIES: '/equipment-categories',
+        FEATURES: '/features',
+        FEATS: '/feats',
+        LANGUAGES: '/languages',
+        MAGIC_ITEMS: '/magic-items',
+        MAGIC_SCHOOLS: '/magic-schools',
+        MONSTERS: '/monsters',
+        PROFICIENCIES: '/proficiencies',
+        RACES: '/races',
+        RULE_SECTIONS: '/rule-sections',
+        RULES: '/rules',
+        SKILLS: '/skills',
+        SPELLS: '/spells',
+        SUBCLASSES: '/subclasses',
+        SUBRACES: '/subraces',
+        TRAITS: '/traits',
+        WEAPON_PROPERTIES: '/weapon-properties',
+    },
+}
+
+export default EndPoints
